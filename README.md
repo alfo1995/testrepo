@@ -1,2 +1,2 @@
 # testrepo
-cla testing
+cla-testing
